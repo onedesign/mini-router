@@ -49,7 +49,7 @@ function MiniRouter(routes) {
     for (var key in self.routes) {
       var routeFunction = self.routes[key];
       var matchResult = self.matchPathToRoute(key, currentUrl);
-      if (matchResult) routeFunction();
+      if (matchResult && routeFunction) routeFunction();
     }
   };
  
