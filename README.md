@@ -1,5 +1,7 @@
 # MiniRouter
 
+**Deprecated: Use [one-router](https://github.com/onedesign/one-router) for all new projects and move existing projects over as soon as possible.**
+
 An extremely simple router for firing page-specific javascript when the page first loads. It isn't meant to be used on the server and it isn't meant to be used for single pages apps.
 
 ## Usage:
