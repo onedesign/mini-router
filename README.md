@@ -2,7 +2,7 @@
 
 **Deprecated: Use [one-router](https://github.com/onedesign/one-router) for all new projects and move existing projects over as soon as possible.**
 
-![Sunset](http://imgur.com/nSgswkU)
+![Sunset](http://i.imgur.com/nSgswkU.jpg)
 
 
 An extremely simple router for firing page-specific javascript when the page first loads. It isn't meant to be used on the server and it isn't meant to be used for single pages apps.
