@@ -27,6 +27,8 @@
     "karma-chai": "^0.1.0",
     "karma-clear-screen-reporter": "0.0.1",
     "karma-mocha": "^0.1.10",
-    "karma-phantomjs-launcher": "^0.1.4"
-  }
+    "karma-phantomjs-launcher": "^0.1.4",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {}
 }
